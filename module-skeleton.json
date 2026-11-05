@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-content-entities-react-native",
+  "capabilityKey": "planned:cms:content-entities",
+  "presentation": "mobile-react",
+  "package": "@liberusoftware/module-cms-content-entities-react-native",
+  "foundation": "module-boilerplate-react-native",
+  "foundationCommit": "b63bc1b11fe769e2e547a3f1fced6116556fe9e1",
+  "canonicalPlan": "projects/cms/nextjs/content-entities.md",
+  "presentationPlan": "projects/cms/react-native/content-entities.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
